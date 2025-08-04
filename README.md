@@ -1,6 +1,6 @@
 # Hi there, im Yovsky! 👋
 📍 Currently in Algiers, Algeria 🇩🇿          
-🧑‍🎓 High school 11th grade.
+🧑‍🎓 High school (11th grade).
 ## 🖥️ Programming languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
