@@ -12,6 +12,9 @@
 ![Languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yovsky&theme=algolia)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yovsky&theme=algolia)
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yovsky&theme=algolia&utcOffset=8)
+
+## 📬 Socials
+[Linkedin](https://www.linkedin.com/in/yovsky/)
 <!--
 **Yovsky/Yovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
