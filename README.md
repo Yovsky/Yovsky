@@ -1,10 +1,16 @@
 # Hi there, im Yovsky! 👋
 📍 Currently in Algiers, Algeria 🇩🇿          
 🧑‍🎓 High school (11th grade).
-## 🖥️ Programming languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
+
+## 🕑 I'm Currently Working On
+![EDITO](https://img.shields.io/badge/Project-Edito-FF0000?logo=cplusplus&logoColor=white&labelColor=000000)
+- Edito Text Editor : Building my own Text Editor to improve my skills.
+
+## 🧰 Tech Stack
+![C++](https://img.shields.io/badge/C++-004483?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat&logo=css&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-F1502F?style=flat&logo=git&logoColor=white)
 
 ## 📈 Stats
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yovsky&theme=algolia)
