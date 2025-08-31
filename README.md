@@ -7,9 +7,10 @@
 - Edito Text Editor : Building my own Text Editor to improve my skills.
 
 ## 🧰 Tech Stack
-![C++](https://img.shields.io/badge/C++-004483?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat&logo=css&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004483?style=flat&logo=c%2B%2B&logoColor=white)
+![QT](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-F1502F?style=flat&logo=git&logoColor=white)
 
 ## 📈 Stats
