@@ -3,7 +3,7 @@
 🧑‍🎓 High school (11th grade).
 
 ## 🕑 I'm Currently Working On
-![EDITO](https://img.shields.io/badge/Project-Edito-FF0000?logo=cplusplus&logoColor=white&labelColor=000000)
+[![EDITO](https://img.shields.io/badge/Project-Edito-FF0000?logo=cplusplus&logoColor=white&labelColor=000000)](https://github.com/Yovsky/Edito)
 - Edito Text Editor : Building my own Text Editor to improve my skills.
 
 ## 🧰 Tech Stack
