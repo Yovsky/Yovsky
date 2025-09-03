@@ -3,8 +3,11 @@
 🧑‍🎓 High school (11th grade).
 
 ## 🕑 I'm Currently Working On
-[![EDITO](https://img.shields.io/badge/Project-Edito-FF0000?logo=cplusplus&logoColor=white&labelColor=000000)](https://github.com/Yovsky/Edito)
-- Edito Text Editor : Building my own Text Editor to improve my skills.
+[![QUANTUM](https://img.shields.io/badge/Project-Quantum-013062?logo=cplusplus&logoColor=white&labelColor=000000)](https://github.com/Yovsky/Edito)
+- **Quantum Download Manager:** Building a download manager to learn Network communication and C++.
+
+[![EDITO](https://img.shields.io/badge/Project-Edito-FF0000?logo=cplusplus&logoColor=white&labelColor=000000)](https://github.com/Yovsky/Quantum)
+- **Edito Text Editor:** Building my own Text Editor to improve my skills.
 
 ## 🧰 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
