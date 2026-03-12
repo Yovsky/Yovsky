@@ -16,12 +16,12 @@
 ![QT](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-F1502F?style=flat&logo=git&logoColor=white)
 
-## 📈 Stats
+<!--## 📈 Stats
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yovsky&theme=algolia)
 ![Languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yovsky&theme=algolia)
 ![Languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yovsky&theme=algolia)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yovsky&theme=algolia)
-![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yovsky&theme=algolia&utcOffset=1)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yovsky&theme=algolia&utcOffset=1)-->
 
 ## 📬 Socials
 [Linkedin](https://www.linkedin.com/in/yovsky/)
