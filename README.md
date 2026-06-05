@@ -1,6 +1,6 @@
 # Hi there, im Yovsky! 👋
 📍 Currently in Algiers, Algeria 🇩🇿          
-🧑‍🎓 High school (11th grade).
+🧑‍🎓 High school (12th grade).
 
 ## 🕑 I'm Currently Working On
 [![QUANTUM](https://img.shields.io/badge/Project-Quantum-013062?logo=cplusplus&logoColor=white&labelColor=000000)](https://github.com/Yovsky/Edito)
